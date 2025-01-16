@@ -1,0 +1,19 @@
+Package: squirrels
+Title: Analyse Squirrels Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Henri", "Blandinières", , "hblandinieres@ragt.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0000-0000-0000"))
+Description: This package aims at analysing squirrels data.
+License: MIT + file LICENSE
+Imports: glue, stringr
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
+Config/fusen/version: 0.6.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2025-01-16 15:18:14 UTC; rstudio
+Author: Henri Blandinières [aut, cre] (<https://orcid.org/0000-0000-0000-0000>)
+Maintainer: Henri Blandinières <hblandinieres@ragt.fr>
